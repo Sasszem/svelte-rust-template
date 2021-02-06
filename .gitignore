@@ -3,3 +3,8 @@ node_modules
 public/bundle.*
 package-lock.json
 yarn.lock
+/dist
+/target
+/pkg
+/wasm-pack.log
+Cargo.lock
